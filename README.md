@@ -153,10 +153,10 @@ Virtual Spacecraft Environment
 
 ### Complete Experimental Setup
 
-> *(Insert image)*
+>
 
 <p align="center">
-<img src="images/setup.jpg" width="700">
+<img src="images/complete_system.jpg" width="700">
 </p>
 
 ---
@@ -166,27 +166,19 @@ Virtual Spacecraft Environment
 > *(Insert image)*
 
 <p align="center">
-<img src="images/gimbal.jpg" width="500">
+<img src="images/gimbal.jpg" width="400">
 </p>
 
 ---
 
-### BLDC Motor Driver
 
-> *(Insert image)*
-
-<p align="center">
-<img src="images/motor_driver.jpg" width="500">
-</p>
-
----
 
 ## 🖥 Virtual Spacecraft Environment
 
 > *(Insert screenshot)*
 
 <p align="center">
-<img src="images/gui.png" width="700">
+<img src="images/vse.png" width="700">
 </p>
 
 ---
@@ -214,7 +206,7 @@ The developed system successfully demonstrates:
 
 ---
 
-## 📚 Publications / Thesis
+## 📚Thesis
 
 **Title:**
 
