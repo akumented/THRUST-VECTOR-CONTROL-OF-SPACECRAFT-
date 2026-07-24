@@ -163,7 +163,7 @@ Virtual Spacecraft Environment
 
 ### Gimbal Mechanism
 
-> *(Insert image)*
+
 
 <p align="center">
 <img src="images/gimbal.jpg" width="400">
@@ -175,10 +175,10 @@ Virtual Spacecraft Environment
 
 ## 🖥 Virtual Spacecraft Environment
 
-> *(Insert screenshot)*
+
 
 <p align="center">
-<img src="images/vse.png" width="700">
+<img src="images/vse.jpeg" width="700">
 </p>
 
 ---
