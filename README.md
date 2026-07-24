@@ -68,44 +68,6 @@ The platform enables the virtual spacecraft to interact with the physical actuat
 
 ---
 
-## 📂 Repository Structure
-
-```text
-THRUST-VECTOR-CONTROL-OF-SPACECRAFT
-│
-├── docs/
-│   ├── Thesis.pdf
-│   ├── Presentation.pdf
-│   └── Report.pdf
-│
-├── fpga/
-│   ├── HDL/
-│   ├── Constraints/
-│   └── Vivado_Project/
-│
-├── python/
-│   ├── gui/
-│   ├── serial/
-│   ├── simulation/
-│   └── assets/
-│
-├── matlab/
-│
-├── hardware/
-│   ├── Driver/
-│   ├── Gimbal/
-│   ├── Nozzle/
-│   ├── Lead_Screw/
-│   └── Photos/
-│
-├── images/
-│
-├── videos/
-│
-└── README.md
-```
-
----
 
 ## 🔄 Control Flow
 
