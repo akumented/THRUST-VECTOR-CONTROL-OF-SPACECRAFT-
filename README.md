@@ -52,7 +52,7 @@ The platform enables the virtual spacecraft to interact with the physical actuat
 | Motor Driver | Custom Three-Phase BLDC Driver |
 | Position Sensor | Potentiometer |
 | Actuator | Lead Screw Mechanism |
-| Gimbal | Dual-Axis Gimbal |
+| Gimbal | Single-Axis Gimbal |
 | Communication | UART |
 
 ---
