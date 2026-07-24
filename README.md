@@ -210,8 +210,7 @@ The developed system successfully demonstrates:
 
 **Title:**
 
-> FPGA-Based Hardware-in-the-Loop Platform for Spacecraft Thrust Vector Control
-
+> DESIGN AND DEVELOPMENT OF AN FPGA-BASED HARDWARE-IN-THE-LOOP PLATFORM FOR THRUST VECTOR CONTROL OF SPACECRAFT
 **Institution:**
 
 National Institute of Technology Calicut
