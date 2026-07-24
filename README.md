@@ -215,7 +215,7 @@ The developed system successfully demonstrates:
 
 National Institute of Technology Calicut
 
-M.Tech in 
+
 
 ---
 
