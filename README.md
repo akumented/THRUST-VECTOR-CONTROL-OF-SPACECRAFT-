@@ -1,4 +1,4 @@
-# FPGA-Based Hardware-in-the-Loop Platform for Spacecraft Thrust Vector Control of Spacecraft
+# FPGA-Based Hardware-in-the-Loop Platform for Spacecraft Thrust Vector Control 
 
 A real-time Hardware-in-the-Loop (HIL) platform for validating spacecraft thrust vector control using an FPGA-based controller, BLDC motor-driven gimbal mechanism, and a Virtual Spacecraft Environment.
 
