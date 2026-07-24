@@ -35,10 +35,10 @@ The platform enables the virtual spacecraft to interact with the physical actuat
 
 ## 🏗 System Architecture
 
-> ![Block Diagram](images/system_architecture.jpg)
+> 
 
 <p align="center">
-<img src="images/system_architecture.png" width="800">
+<img src="images/system_architecture.jpg" width="800">
 </p>
 
 ---
