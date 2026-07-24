@@ -1,4 +1,4 @@
-# 🚀 FPGA-Based Hardware-in-the-Loop Platform for Spacecraft Thrust Vector Control
+# FPGA-Based Hardware-in-the-Loop Platform for Spacecraft Thrust Vector Control
 
 A real-time Hardware-in-the-Loop (HIL) platform for validating spacecraft thrust vector control using an FPGA-based controller, BLDC motor-driven gimbal mechanism, and a Virtual Spacecraft Environment.
 
@@ -224,7 +224,7 @@ The developed system successfully demonstrates:
 
 National Institute of Technology Calicut
 
-M.Tech in Electronics Design and Technology
+M.Tech in 
 
 ---
 
@@ -232,7 +232,7 @@ M.Tech in Electronics Design and Technology
 
 **Akash S**
 
-M.Tech – Embedded Systems
+M.Tech – Electronics Design and Technology
 
 National Institute of Technology Calicut
 
